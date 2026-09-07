@@ -1,0 +1,6 @@
+{
+  "name": "Tellme Social",
+  "description": "منصة Tellme للتواصل الاجتماعي والمحادثات الفورية والمكالمات ومقاطع الفيديو والقصص",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
